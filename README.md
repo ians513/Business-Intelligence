@@ -24,7 +24,7 @@ After the initial exploration and comparison, Candidate A was provisionally sele
 
 The project is organized as follows:
 
-W1/
+Business-Intelligence/
 - README.md
 - report/
   - W1_Report.pdf
