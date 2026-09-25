@@ -3,7 +3,7 @@
 
 ## Project Information
 
-**Course:** Business Intelligence - IIB423T-1  
+**Course:** Business Intelligence 
 **Assessment:** W1 - Discovering Questions Worth Investigating  
 
 **Members:** Ian Spikin Thomas, Juan Pablo Molina
